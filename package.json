@@ -1,0 +1,26 @@
+{
+  "name": "graduation-api",
+  "version": "1.0.0",
+  "description": "Graduation API for the graduation main page",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rad5academy/graduation-api.git"
+  },
+  "keywords": [
+    "API"
+  ],
+  "author": "Vincent Iroleh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rad5academy/graduation-api/issues"
+  },
+  "homepage": "https://github.com/rad5academy/graduation-api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
