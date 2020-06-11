@@ -10,7 +10,7 @@ const graduates = {
         },
         {
             name: 'Victor Obumneme',
-            img: 'https://bit.ly/2UjUA68',
+            img: 'https://res.cloudinary.com/aircell-agro/image/upload/v1591885438/victor.jpg',
             stack: 'FullStack',
             twitter: 'https://twitter.com/VictorObumneme',
             github: 'https://github.com/victorobumneme',
