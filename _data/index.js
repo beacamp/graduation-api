@@ -21,6 +21,14 @@ const graduates = {
             github: 'https://github.com/ogbonnachinonso',
             linkedin: 'https://www.linkedin.com/in/chinonso-ubadire-ogbonna-31a0b11a4'
         },
+        {
+            name: 'Chioma Jessica Ogbonna',
+            img: 'https://bit.ly/2VzmRGh',
+            stack: 'Frontend Developer',
+            twitter: '',
+            github: 'https://github.com/chiomajessica',
+            linkedin: 'https://www.linkedin.com/in/chioma-jessica-7084a5130/'
+        },
     ]
 }
 
